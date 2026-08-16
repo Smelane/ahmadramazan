@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Smelane.github.io/ahmadramazan/sitemap.xml
